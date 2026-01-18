@@ -252,7 +252,7 @@
         }
 
         /* --- LOCATION PAGE --- */
-        .map-preview {
+                    {
             width: 100%;
             height: 250px;
             background-color: #e0e0e0;
@@ -330,10 +330,7 @@
         <div class="landing-btn" onclick="showPage('menu-page')">
             🍽️ Hotel Menu
         </div>
-        
-        <div class="landing-btn" onclick="showPage('review-page')">
-            ⭐ Google Review
-        </div>
+      
         
         <div class="landing-btn" onclick="showPage('location-page')">
             📍 Location / Directions
